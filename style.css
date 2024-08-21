@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.div {
+  margin: 100px auto;
+  width: 700px;
+  height: 700px;
+  display: block;
+  position: absolute;
+  bottom: 300px;
+  left: 500px;
+}
+
+.box {
+  background-color: black;
+  color: white;
+}
+
+.big-circle {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  left: 228px;
+  top: 105px;
+  border-radius: 100%;
+}
+
+.small-circle-1 {
+  width: 125px;
+  height: 125px;
+  position: relative;
+  left: 395px;
+  top: 275px;
+  border-radius: 100%;
+
+}
+
+.small-circle-2 {
+  width: 125px;
+  height: 125px;
+  position: relative;
+  left: 190px;
+  top: 150px;
+  border-radius: 100%;
+}
